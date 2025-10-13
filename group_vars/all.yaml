@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.abhidevops.fun
+REDIS_HOST: redis.abhidevops.fun
+CATALOGUE_HOST: catalogue.abhidevops.fun
+CART_HOST: cart.abhidevops.fun
+USER_HOST: user.abhidevops.fun
+RABBITMQ_HOST: rabbitmq.abhidevops.fun
+MYSQL_HOST: mysql.abhidevops.fun
+SHIPPING_HOST: shipping.abhidevops.fun
+PAYMENT_HOST: payment.abhidevops.fun
